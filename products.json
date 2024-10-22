@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "SmartWatch",
+        "image": "https://i5.walmartimages.com/asr/e1ae90b2-98da-443b-888c-a71228c5234e.eb10d07052b374f38aa17166043f5a7a.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff",
+        "price": 29.99,
+        "rating": 4.5,
+        "description": "This is the description for Product 1."
+    },
+    {
+        "id": 2,
+        "name": "Wireless Mouse",
+        "image": "https://static.bhphoto.com/images/images500x500/logitech_910003636_m185_wireless_mouse_blue_black_1538580223_1433569.jpg",
+        "price": 19.99,
+        "rating": 4.0,
+        "description": "This is the description for Product 2."
+    },
+    {
+        "id": 3,
+        "name": "T-shirt",
+        "image": "https://i.etsystatic.com/30208116/r/il/1a474b/3162778582/il_fullxfull.3162778582_e81p.jpg",
+        "price": 39.99,
+        "rating": 5.0,
+        "description": "This is the description for Product 3."
+    },
+    {
+        "id": 4,
+        "name": "Bags",
+        "image": "https://via.placeholder.com/150",
+        "price": 49.99,
+        "rating": 3.5,
+        "description": "This is the description for Product 4."
+    },
+    {
+        "id": 5,
+        "name": "Phone Cases",
+        "image": "https://th.bing.com/th/id/OIP.c8lm5_K_HOyhRatkDUe4kwHaHa?rs=1&pid=ImgDetMain",
+        "price": 59.99,
+        "rating": 4.2,
+        "description": "This is the description for Product 5."
+    },
+    {
+        "id": 6,
+        "name": "Earbuds",
+        "image": "https://via.placeholder.com/150",
+        "price": 29.99,
+        "rating": 4.6,
+        "description": "This is the description for Product 6."
+    },
+    {
+        "id": 7,
+        "name": "Shoes",
+        "image": "https://via.placeholder.com/150",
+        "price": 39.99,
+        "rating": 4.0,
+        "description": "This is the description for Product 7."
+    },
+    {
+        "id": 8,
+        "name": "Jeans",
+        "image": "https://via.placeholder.com/150",
+        "price": 49.99,
+        "rating": 4.8,
+        "description": "This is the description for Product 8."
+    },
+    {
+        "id": 9,
+        "name": "Keyboard",
+        "image": "https://via.placeholder.com/150",
+        "price": 59.99,
+        "rating": 4.3,
+        "description": "This is the description for Product 9."
+    },
+    {
+        "id": 10,
+        "name": "USB cable",
+        "image": "https://via.placeholder.com/150",
+        "price": 19.99,
+        "rating": 4.7,
+        "description": "This is the description for Product 10."
+    },
+    {
+        "id": 11,
+        "name": "Goggles",
+        "image": "https://via.placeholder.com/150",
+        "price": 29.99,
+        "rating": 4.1,
+        "description": "This is the description for Product 11."
+    },
+    {
+        "id": 12,
+        "name": "Product 12",
+        "image": "https://via.placeholder.com/150",
+        "price": 39.99,
+        "rating": 5.0,
+        "description": "This is the description for Product 12."
+    },
+    {
+        "id": 13,
+        "name": "Product 13",
+        "image": "https://via.placeholder.com/150",
+        "price": 49.99,
+        "rating": 3.9,
+        "description": "This is the description for Product 13."
+    },
+    {
+        "id": 14,
+        "name": "Product 14",
+        "image": "https://via.placeholder.com/150",
+        "price": 59.99,
+        "rating": 4.6,
+        "description": "This is the description for Product 14."
+    },
+    {
+        "id": 15,
+        "name": "Product 15",
+        "image": "https://via.placeholder.com/150",
+        "price": 19.99,
+        "rating": 4.8,
+        "description": "This is the description for Product 15."
+    },
+    {
+        "id": 16,
+        "name": "Product 16",
+        "image": "https://via.placeholder.com/150",
+        "price": 29.99,
+        "rating": 4.4,
+        "description": "This is the description for Product 16."
+    },
+    {
+        "id": 17,
+        "name": "Product 17",
+        "image": "https://via.placeholder.com/150",
+        "price": 39.99,
+        "rating": 5.0,
+        "description": "This is the description for Product 17."
+    },
+    {
+        "id": 18,
+        "name": "Product 18",
+        "image": "https://via.placeholder.com/150",
+        "price": 49.99,
+        "rating": 4.3,
+        "description": "This is the description for Product 18."
+    },
+    {
+        "id": 19,
+        "name": "Product 19",
+        "image": "https://via.placeholder.com/150",
+        "price": 59.99,
+        "rating": 4.7,
+        "description": "This is the description for Product 19."
+    },
+    {
+        "id": 20,
+        "name": "Product 20",
+        "image": "https://via.placeholder.com/150",
+        "price": 29.99,
+        "rating": 4.2,
+        "description": "This is the description for Product 20."
+    }
+]
